@@ -1,5 +1,5 @@
-== Files
+=Files
 * deploy.rb
 
-== Descriptions
+=Descriptions
 deploy.rb : a capistrano configuration for webroar 
